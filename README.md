@@ -2,7 +2,7 @@
 
 1. 依赖lz4
 
-2. msys64
+2. msys64 pkg-config
 
 ## Build with MSVC
 
